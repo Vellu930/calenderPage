@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/setNewPin"
+        android:title="Set new PIN"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/removePin"
+        android:title="Remove PIN"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/showHistory"
+        android:title="Show my history"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/aboutPage"
+        android:title="About App"
+        app:showAsAction="never"
+        />
+</menu>
