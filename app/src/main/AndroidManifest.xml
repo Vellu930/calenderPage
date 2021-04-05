@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningDatabaseApp">
         <activity android:name=".ViewNoteActivity"></activity>
-        <activity android:name=".userProfile" />
         <activity android:name=".AddNoteActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
