@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">learningDatabaseApp</string>
+    
+    <string-array name="programming_languages">
+        <item>PHP</item>
+        <item>Java</item>
+        <item>C++</item>
+        <item>HTML</item>
+        <item>Python</item>
+        <item>JavaScript</item>
+    </string-array>
+    <string-array name="description">
+        <item>PHP description</item>
+        <item>Java description</item>
+        <item>C++ description</item>
+        <item>HTML description</item>
+        <item>Python description</item>
+        <item>JavaScript description</item>
+    </string-array>
 </resources>
