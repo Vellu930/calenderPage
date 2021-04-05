@@ -10,15 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningDatabaseApp">
         <activity android:name=".ViewNoteActivity"></activity>
-        <activity android:name=".userProfile" />
-        <activity android:name=".AddNoteActivity">
+        <activity android:name=".AddNoteActivity"></activity>
+
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
